@@ -1,4 +1,4 @@
-  // name file TrigTableRad.java
+// name file TrigTableRad.java
 // compile javac TrigTableRad.java
 // run		java TrigTableRad
 class TrigTableDegTime {
@@ -55,3 +55,5 @@ class TrigTableDegTime {
 		
 	}
 }
+
+
